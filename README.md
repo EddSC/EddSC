@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Typescript-100000?style=flat&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/Typescript-100000?style=flat&logo=typescript&logoColor=white">
 
 <!--
 **EddSC/EddSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
